@@ -91,7 +91,7 @@ div.background {
    	display: block;
    	text-align: right;
    	margin: 10px;
-   	top: 55px;
+   	top: -0.5px;
    	left: 264px;
    	transition: 1000ms;
     }
