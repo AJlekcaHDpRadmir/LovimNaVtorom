@@ -91,8 +91,8 @@ div.background {
    	display: block;
    	text-align: right;
    	margin: 10px;
-   	top: -0.5px;
-   	left: 264px;
+   	top: 0px;
+   	left: 310px;
    	transition: 1000ms;
     }
 
