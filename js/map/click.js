@@ -4,7 +4,7 @@ const triggers = users.map(item => item.querySelector('.trigger'));
 
 triggers.forEach((item, i) => { // проходимся по каждому тригеру
   item.addEventListener('click', (e) => { // ставим на него слушатель события клика
-    users[i].classList.toggle('active'); // что-то делаем   
+    users[i].classList.toggle('active'); // что-то делаем  
   });
 });
 
